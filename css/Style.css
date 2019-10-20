@@ -1,0 +1,124 @@
+body {
+    direction: rtl;
+    background-image: url("../images/pic3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #ffffff;
+}
+
+.header {
+    background-color: #ffffff ;
+    text-align: center;
+    font-size: x-large;
+    opacity: 0.9;
+    padding: 20px 20px 10px 20px;
+    border: 0.5px solid black ;
+    border-radius: 15px;
+}
+.header1 {
+    background-color: #fffefe;
+    text-align: center;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ul>li {
+    font-size: 18;
+    margin: 10px 25px;
+}
+
+.article {
+    width: 30%;
+    background-color: rgb(241, 231, 217);
+    margin: 35px 5px 50px 75%;
+    border: 0.5px dashed black;
+    border-radius: 10px;
+
+
+}
+
+.subject {
+    margin: 5px 7.5%;
+    width: 85%;
+    background-color: lavenderblush;
+    border: 0.2px solid black;
+    padding: 10px 30px;
+}
+.subsub {
+    text-align: center;
+}
+
+.div1 {
+    float: right;
+    margin-right: 7.5%;
+    width: 29.2%;
+    padding: 3px;
+    border: 0.5px solid gray;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.div2 {
+    float: right;
+    width: 29.2%;
+    padding: 3px;
+    border: 0.5px solid black;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.div3 {
+    float: right;
+    width: 29.2%;
+    margin-left: 0px;
+    padding: 3px;
+    border: 0.5px solid black;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.h3 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: purple;
+}
+
+.divlanguage {
+    margin: 2px 30px;
+    padding: 1px;
+}
+
+.imglanguage {
+    width: 100%;
+    height: 175px;
+    background-position: center;
+    
+}
+
+.txt {
+    background-color: #ffffff;
+    border: 0.1px none black;
+    padding: 0.1px;
+    border-radius: 10px;
+
+}
+
+.h31 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: orange;
+}
+
+.pjava {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.h32 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: green;
+}
+.pcpp {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+
