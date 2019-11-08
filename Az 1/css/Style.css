@@ -1,6 +1,7 @@
 body {
     direction: rtl;
-    background-image: url("../images/pic3.jpg");
+    /*background-image: url("../images/pic3.jpg"); */
+    background: linear-gradient(135deg,white,rgb(42, 169, 207) ,rgb(189, 6, 173));
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #ffffff;
@@ -63,6 +64,7 @@ body {
     padding: 3px;
     border: 0.5px solid black;
     border-radius: 0px 0px 10px 10px;
+
 }
 
 .div3 {
@@ -82,6 +84,7 @@ body {
 .divlanguage {
     margin: 2px 30px;
     padding: 1px;
+    box-shadow: rgba(0, 0,0,0.4) 10px 10px;
 }
 
 .imglanguage {
