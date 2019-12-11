@@ -1,0 +1,29 @@
+body {
+    direction: rtl;
+    
+}
+
+.divhead {
+    margin: 1px;
+    padding: 20px 10px;
+    background-color: #343a40;
+    overflow: hidden;
+    
+}
+
+.divhead a {
+    color: #ffffff;
+    padding-right: 16px;
+    float: right;
+    font-size: 20px; 
+    line-height: 25px;
+    border-radius: 4px;
+}
+
+.headright {
+    float: left;
+}
+
+.ulnav {
+    margin: 5px 0px;
+}
