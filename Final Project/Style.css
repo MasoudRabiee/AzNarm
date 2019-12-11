@@ -27,3 +27,18 @@ body {
 .ulnav {
     margin: 5px 0px;
 }
+
+.aslider {
+    width: 1.5%;
+}
+
+.divcarousel {
+    width: 18.3%;
+    margin-right: 1.4%; 
+    float: right;
+    border: solid 1px #aaaaaa;
+    border-radius: 5px;
+}
+
+
+
