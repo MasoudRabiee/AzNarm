@@ -1,3 +1,6 @@
+.bggg{
+    background-color: #f7f9fa;
+}
 body {
     direction: rtl;
     
@@ -10,7 +13,18 @@ body {
     overflow: hidden;
     
 }
-
+.Head{
+    height: 38px;
+    background: #f7f9fa;
+    border-bottom: 3px solid forestgreen;
+    margin-bottom: 1px;
+}
+.Head span{
+    
+    color: forestgreen;
+    margin: 5px 20px;
+    display: inline-block;
+}
 .divhead a {
     color: #ffffff;
     padding-right: 16px;
