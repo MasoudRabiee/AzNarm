@@ -72,9 +72,9 @@ body {
     width: 35%;
     height: inherit;
     float: left;
-    border-radius: 5px;
-    margin: 0% 0% 0% 5%;
+    margin: 0% 0% 0% 10%;
 }
+
 
 .mainimg3 {
     background-image: url(images/lateralindex.jpg);
@@ -82,9 +82,11 @@ body {
     width: 35%;
     height: inherit;
     float: left;
-    border-radius: 5px;
-    margin: 0% 0% 0% 5%;
+    margin: 0% 0% 0% 10%;
+
 }
+
+
 
 
 
