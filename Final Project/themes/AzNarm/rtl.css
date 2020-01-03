@@ -271,8 +271,7 @@ body {
 .diva a:visited {
     color: white;
 }
-
-
-
-
-
+li.full-item, #secondary .widget > ul > li {
+    padding-bottom: 10px;
+    text-align: left;
+}
